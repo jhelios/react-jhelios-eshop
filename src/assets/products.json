@@ -1,0 +1,744 @@
+[
+  {
+    "id": "CR1",
+    "name": "Cruz de Madera Tallada",
+    "description": "Cruz de madera tallada a mano con detalles intrincados y acabado envejecido. Dimensiones de 12x8 pulgadas, perfecta para decorar tu hogar o como objeto de devoción religiosa.",
+    "price": 49.99,
+    "images": [
+      {
+        "imgName": "cruz_madera_mediano_1",
+        "url": "https://img.freepik.com/free-photo/closeup-cross_53876-17959.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_mediano_2",
+        "url": "https://img.freepik.com/free-photo/high-angle-shot-wooden-toy-track-races_181624-32480.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_mediano_3",
+        "url": "https://img.freepik.com/free-photo/stick-cross-sand_179666-37496.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST1",
+    "name": "Sable de Luz",
+    "description": "Réplica exacta del icónico sable de luz de Star Wars, con detalles de alta calidad y efectos de sonido.",
+    "price": 149.99,
+    "images": [
+      {
+        "imgName": "sable_mediano_1",
+        "url": "https://img.freepik.com/free-vector/realistic-flashlight-hand-composition_1284-21215.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "sable_mediano_2",
+        "url": "https://img.freepik.com/free-vector/modern-powerful-high-lumen-handheld-torch-flashlight-hand-realistic-composition-against-dark-transparent_1284-31667.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "sable_mediano_3",
+        "url": "https://img.freepik.com/free-vector/light-beams-from-spotlights-floor-projectors-isolated_107791-4427.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR2",
+    "name": "Cruz de Acero Inoxidable",
+    "description": "Cruz de acero inoxidable de alta calidad con diseño moderno y pulido de espejo. Dimensiones de 18x12 pulgadas, resistente al agua y al deslustre. Ideal para uso interior o exterior.",
+    "price": 89.99,
+    "images": [
+      {
+        "imgName": "cruz_acero_mediano_1",
+        "url": "https://img.freepik.com/free-vector/metallic-pipes_592324-20182.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_acero_mediano_2",
+        "url": "https://img.freepik.com/free-vector/metal-texture-with-relief-forms_23-2147569496.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_acero_mediano_3",
+        "url": "https://img.freepik.com/free-vector/realistic-metal-silver-tags-different-shapes_88138-308.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST2",
+    "name": "Figura de Acción R2-D2",
+    "description": "Figura de acción de R2-D2, el astromecánico leal y valiente de la saga Star Wars, con detalles precisos y articulaciones para posar en diferentes poses.",
+    "price": 29.99,
+    "images": [
+      {
+        "imgName": "r2d2_mediano_1",
+        "url": "https://img.freepik.com/free-photo/robot-showing-good-progress-graph_1048-3512.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "r2d2_mediano_2",
+        "url": "https://img.freepik.com/free-photo/collection-traditional-toy-soldiers_93675-130153.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "r2d2_mediano_3",
+        "url": "https://img.freepik.com/free-photo/still-life-figurine-with-dices_23-2149352301.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR3",
+    "name": "Cruz de Plata Esterlina",
+    "description": "Cruz de plata esterlina con diseño elegante y detalles grabados a mano. Dimensiones de 1.5x1 pulgadas, con cadena de plata incluida. Ideal para uso diario o como regalo especial.",
+    "price": 79.99,
+    "images": [
+      {
+        "imgName": "cruz_plata_mediano_1",
+        "url": "https://img.freepik.com/free-photo/still-life-crucifix-with-book_23-2149344465.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_plata_mediano_2",
+        "url": "https://img.freepik.com/free-photo/top-view-cross-shape-with-dark-soil-white_179666-40009.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_plata_mediano_3",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST3",
+    "name": "Nave Millennium Falcon",
+    "description": "La legendaria nave espacial de Han Solo y Chewbacca, la Millennium Falcon, con detalles auténticos y características impresionantes, como cabina con luces y sonidos, y compartimentos de carga.",
+    "price": 299.99,
+    "images": [
+      {
+        "imgName": "millennium_falcon_mediano_1",
+        "url": "https://img.freepik.com/free-vector/moder-spaceship-white_1308-81817.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "millennium_falcon_mediano_2",
+        "url": "https://img.freepik.com/free-vector/sticker-template-with-ufo-fighter-aircraft-isolated_1308-58143.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "millennium_falcon_mediano_3",
+        "url": "https://img.freepik.com/free-vector/spaceship-asteroid-scene_1308-37444.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR4",
+    "name": "Cruz de Cerámica Pintada a Mano",
+    "description": "Cruz de cerámica pintada a mano con diseños florales y acabado brillante. Dimensiones de 10x6 pulgadas, con soporte de metal para colgar en la pared. Una pieza única y artesanal para tu hogar.",
+    "price": 39.99,
+    "images": [
+      {
+        "imgName": "cruz_ceramica_mediano_1",
+        "url": "https://img.freepik.com/free-vector/watercolor-mosaic-background_23-2148284074.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_ceramica_mediano_2",
+        "url": "https://img.freepik.com/free-vector/watercolor-blue-ornamental-flower-background_23-2148305339.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_ceramica_mediano_3",
+        "url": "https://img.freepik.com/free-vector/mosaic-watercolor-background_23-2148308291.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST4",
+    "name": "Traje de Stormtrooper",
+    "description": "Réplica detallada del icónico traje de Stormtrooper del Imperio Galáctico, con casco, armadura y accesorios de alta calidad.",
+    "price": 199.99,
+    "images": [
+      {
+        "imgName": "stormtrooper_mediano_1",
+        "url": "https://img.freepik.com/free-vector/astronaut-boy-character-pack-set_1284-12728.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "stormtrooper_mediano_2",
+        "url": "https://img.freepik.com/free-vector/hand-drawn-halloween-mummies-collection_23-2149098428.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "stormtrooper_mediano_3",
+        "url": "https://img.freepik.com/free-photo/astronaut-day-spaceman-excited-outer-space-standing-with-fists-up-smiling-open-glass-helmet_140725-161196.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR5",
+    "name": "Cruz de Madera Tallada a Mano",
+    "description": "Cruz de madera tallada a mano con detalles intrincados y acabado envejecido. Dimensiones de 8x5 pulgadas, con soporte de metal para colocar en una superficie plana. Una pieza de artesanía que aporta calidez y estilo a cualquier ambiente.",
+    "price": 59.99,
+    "images": [
+      {
+        "imgName": "cruz_madera_mediano_1",
+        "url": "https://img.freepik.com/free-photo/engraving-instrument-arrangement-table_23-2149061698.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_mediano_2",
+        "url": "https://img.freepik.com/free-photo/closeup-cross_53876-17959.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_mediano_3",
+        "url": "https://img.freepik.com/free-vector/hand-drawn-viking-runes-font-alphabet_23-2149996360.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST5",
+    "name": "Taza con diseño de Baby Yoda",
+    "description": "Taza de cerámica con diseño de Baby Yoda, el entrañable personaje de la serie 'The Mandalorian', perfecta para disfrutar de tu bebida favorita con estilo.",
+    "price": 12.99,
+    "images": [
+      {
+        "imgName": "baby_yoda_mediano_1",
+        "url": "https://img.freepik.com/free-vector/monster-coffee-poster-merchandising_6317-4884.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "baby_yoda_mediano_2",
+        "url": "https://img.freepik.com/free-vector/cartoon-cthulhu-poster-merchandising_6317-4692.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "baby_yoda_mediano_3",
+        "url": "https://img.freepik.com/free-vector/crocodile-bush-poster-merchandising_6317-4958.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR6",
+    "name": "Cruz de Acero Inoxidable",
+    "description": "Cruz de acero inoxidable pulido con diseño minimalista y acabado brillante. Dimensiones de 2x1.5 pulgadas, con cadena de acero inoxidable incluida. Resistente al desgaste y adecuada para uso diario.",
+    "price": 49.99,
+    "images": [
+      {
+        "imgName": "cruz_acero_mediano_1",
+        "url": "https://img.freepik.com/free-vector/metallic-pipes_592324-20182.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_acero_mediano_2",
+        "url": "https://img.freepik.com/free-vector/metal-texture-with-relief-forms_23-2147569496.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_acero_mediano_3",
+        "url": "https://img.freepik.com/free-vector/realistic-metal-silver-tags-different-shapes_88138-308.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST6",
+    "name": "Llavero de R2-D2",
+    "description": "Llavero con el diseño del simpático droide R2-D2 de Star Wars, ideal para llevar tus llaves con estilo y mostrar tu amor por esta icónica saga.",
+    "price": 8.99,
+    "images": [
+      {
+        "imgName": "r2d2_mediano_1",
+        "url": "https://img.freepik.com/free-vector/keychains-keyrings-set-heart-butterfly-cat-car-earth-shaped-key-fobs-isolated-white-background-vector-illustration-trinket-souvenir-opening-door-property-rent-concept_74855-13140.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "r2d2_mediano_2",
+        "url": "https://img.freepik.com/free-vector/keychain-template-design-with-many-kinds-animals_1308-41925.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "r2d2_mediano_3",
+        "url": "https://img.freepik.com/free-vector/lovely-door-hangers-with-animals_23-2147509992.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR7",
+    "name": "Cruz de Plata Esterlina",
+    "description": "Cruz de plata esterlina con diseño clásico y acabado pulido. Dimensiones de 1.5x1 pulgadas, con cadena de plata esterlina incluida. Hecha a mano con materiales de alta calidad y perfecta para ocasiones especiales o uso diario.",
+    "price": 79.99,
+    "images": [
+      {
+        "imgName": "cruz_plata_mediano_1",
+        "url": "https://img.freepik.com/free-photo/still-life-crucifix-with-book_23-2149344465.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_plata_mediano_2",
+        "url": "https://img.freepik.com/free-photo/top-view-cross-shape-with-dark-soil-white_179666-40009.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_plata_mediano_3",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST7",
+    "name": "Figura de acción de Darth Vader",
+    "description": "Figura de acción de alta calidad con la imagen del temido Sith Lord Darth Vader, con detalles precisos y articulaciones móviles para recrear épicas batallas galácticas.",
+    "price": 29.99,
+    "images": [
+      {
+        "imgName": "darth_vader_mediano_1",
+        "url": "https://img.freepik.com/free-photo/superheroe-flying_1048-1704.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "darth_vader_mediano_2",
+        "url": "https://img.freepik.com/free-vector/halloween-characters-collection-flat-design_52683-21916.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "darth_vader_mediano_3",
+        "url": "https://img.freepik.com/free-photo/superheroe-posing_1048-1705.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR8",
+    "name": "Cruz de Madera con Incrustaciones de Nácar",
+    "description": "Cruz de madera con incrustaciones de nácar natural en un diseño geométrico. Dimensiones de 6x4 pulgadas, con borde de metal plateado. Un detalle elegante y significativo para cualquier espacio o como regalo especial.",
+    "price": 69.99,
+    "images": [
+      {
+        "imgName": "cruz_madera_nacar_mediano_1",
+        "url": "https://img.freepik.com/free-photo/closeup-cross_53876-17959.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_nacar_mediano_2",
+        "url": "https://img.freepik.com/free-photo/high-angle-shot-wooden-toy-track-races_181624-32480.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_nacar_mediano_3",
+        "url": "https://img.freepik.com/free-photo/wood-tables-fireplace_1252-428.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST8",
+    "name": "Camiseta de la Estrella de la Muerte",
+    "description": "Camiseta con el icónico diseño de la Estrella de la Muerte de Star Wars, perfecta para los fanáticos de la saga que quieran lucir su amor por el Lado Oscuro de la Fuerza.",
+    "price": 19.99,
+    "images": [
+      {
+        "imgName": "estrella_muerte_mediano_1",
+        "url": "https://img.freepik.com/free-vector/mexican-day-dead-colorful-logotype_225004-1324.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "estrella_muerte_mediano_2",
+        "url": "https://img.freepik.com/free-vector/hand-drawn-designs-streetwear-illustration_23-2149921791.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "estrella_muerte_mediano_3",
+        "url": "https://img.freepik.com/free-vector/dia-de-los-muertos-colorful-concept_225004-1341.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR9",
+    "name": "Cruz de Oro Blanco con Diamantes",
+    "description": "Cruz de oro blanco de 18 quilates con incrustaciones de diamantes brillantes en un diseño moderno. Dimensiones de 1x0.75 pulgadas, con cadena de oro blanco incluida. Una joya de lujo para lucir con estilo y elegancia.",
+    "price": 599.99,
+    "images": [
+      {
+        "imgName": "cruz_oro_diamantes_mediano_1",
+        "url": "https://img.freepik.com/free-photo/spirituality-religion-women-religious-concepts-hands-praying-god-while-holding-cross-symbol-nun-caught-cross-his-hand_1150-14898.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_oro_diamantes_mediano_2",
+        "url": "https://img.freepik.com/free-photo/wedding-still-life-with-glasses_23-2147975973.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_oro_diamantes_mediano_3",
+        "url": "https://img.freepik.com/free-photo/still-life-crucifix-with-book_23-2149344465.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST9",
+    "name": "Libro de Star Wars: El Despertar de la Fuerza",
+    "description": "Libro de tapa dura que cuenta la historia de la película 'El Despertar de la Fuerza' de Star Wars, con detalles exclusivos y fascinantes del universo de la saga.",
+    "price": 24.99,
+    "images": [
+      {
+        "imgName": "despertar_fuerza_mediano_1",
+        "url": "https://img.freepik.com/free-vector/astronomy-brochure-flyer-with-astronomical-equipment-observe-night-sky-stars_1441-1845.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "despertar_fuerza_mediano_2",
+        "url": "https://img.freepik.com/free-vector/satellites-flying-around-earth_1308-32603.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "despertar_fuerza_mediano_3",
+        "url": "https://img.freepik.com/free-vector/camp-space-scene_1308-34675.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR10",
+    "name": "Cruz de Acero Inoxidable con Grabado",
+    "description": "Cruz de acero inoxidable con diseño minimalista y grabado inspirador. Dimensiones de 2x1.25 pulgadas, con cadena de acero inoxidable incluida. Resistente al desgaste y perfecta para uso diario con un mensaje significativo.",
+    "price": 29.99,
+    "images": [
+      {
+        "imgName": "cruz_acero_inoxidable_mediano_1",
+        "url": "https://img.freepik.com/free-vector/metal-texture-with-relief-forms_23-2147569496.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_acero_inoxidable_mediano_2",
+        "url": "https://img.freepik.com/free-photo/high-angle-medical-scalpel-blades-tray_23-2149299221.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_acero_inoxidable_mediano_3",
+        "url": "https://img.freepik.com/free-vector/realistic-metal-silver-tags-different-shapes_88138-308.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST10",
+    "name": "Figura de Acción de Yoda",
+    "description": "Figura de acción de Yoda, el icónico maestro Jedi de la saga de Star Wars. Incluye detalles realistas, articulaciones y accesorios como su bastón y sable de luz.",
+    "price": 29.99,
+    "images": [
+      {
+        "imgName": "yoda_mediano_1",
+        "url": "https://img.freepik.com/free-vector/goblin-troll-holding-hunting-tool-color-silhouette-cartoon-character-white-background_1308-44941.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "yoda_mediano_2",
+        "url": "https://img.freepik.com/free-vector/goblin-troll-holding-hunting-tool-color-silhouette-cartoon-character-white-background_1308-46427.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "yoda_mediano_3",
+        "url": "https://img.freepik.com/free-photo/superheroe-posing_1048-1705.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR11",
+    "name": "Cruz de Madera Tallada a Mano",
+    "description": "Cruz de madera maciza tallada a mano con intrincados detalles y acabado envejecido. Dimensiones de 8x5 pulgadas, con soporte para colgar en la pared o exhibir en una superficie plana. Una pieza artesanal única para decorar tu hogar con devoción y estilo rústico.",
+    "price": 49.99,
+    "images": [
+      {
+        "imgName": "cruz_madera_tallada_mediano_1",
+        "url": "https://img.freepik.com/free-photo/engraving-instrument-arrangement-table_23-2149061698.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_tallada_mediano_2",
+        "url": "https://img.freepik.com/free-photo/closeup-cross_53876-17959.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_tallada_mediano_3",
+        "url": "https://img.freepik.com/free-vector/hand-drawn-viking-runes-font-alphabet_23-2149996360.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST11",
+    "name": "Puzzle de 1000 piezas de Star Wars",
+    "description": "Puzzle de 1000 piezas con una ilustración épica de personajes y naves de Star Wars. Ideal para los amantes de los rompecabezas y la saga de Star Wars.",
+    "price": 24.99,
+    "images": [
+      {
+        "imgName": "puzzle_star_wars_mediano_1",
+        "url": "https://img.freepik.com/free-vector/counting-game-with-space-elements_23-2148792751.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "puzzle_star_wars_mediano_2",
+        "url": "https://img.freepik.com/free-vector/board-game-template-with-space-theme_1308-57750.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "puzzle_star_wars_mediano_3",
+        "url": "https://img.freepik.com/free-vector/set-space-games_1308-37421.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR12",
+    "name": "Cruz de Plata de Ley con Circonitas",
+    "description": "Cruz de plata de ley con incrustaciones de circonitas cúbicas en un diseño clásico y elegante. Dimensiones de 1.5x1 pulgadas, con cadena de plata de ley incluida. Una joya atemporal con un brillo deslumbrante para llevarla en ocasiones especiales o como un símbolo de fe en tu día a día.",
+    "price": 79.99,
+    "images": [
+      {
+        "imgName": "cruz_plata_ley_circonitas_mediano_1",
+        "url": "https://img.freepik.com/free-photo/macro-shot-screw-wooden-background_53876-32172.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_plata_ley_circonitas_mediano_2",
+        "url": "https://img.freepik.com/free-photo/close-up-three-silver-crowns-epiphany-day_23-2148731485.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_plata_ley_circonitas_mediano_3",
+        "url": "https://img.freepik.com/free-photo/copy-space-holy-cross-necklace-with-bread_23-2148288887.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST12",
+    "name": "Lámpara Death Star",
+    "description": "Lámpara inspirada en la Estrella de la Muerte de Star Wars. Tiene efectos de iluminación LED, con diseño detallado y realista. Perfecta para los fanáticos de la saga.",
+    "price": 49.99,
+    "images": [
+      {
+        "imgName": "death_star_lamp_mediano_1",
+        "url": "https://img.freepik.com/free-photo/closeup-bright-light-bulb_53876-71239.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "death_star_lamp_mediano_2",
+        "url": "https://img.freepik.com/free-photo/halloween-banner-with-lit-pumpkin_23-2149595955.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "death_star_lamp_mediano_3",
+        "url": "https://img.freepik.com/free-photo/arrival-aliens-concept-with-french-fries_23-2149768576.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR13",
+    "name": "Cruz de Metal Forjado a Mano",
+    "description": "Cruz de metal forjado a mano con acabado en negro mate y detalles intrincados. Dimensiones de 10x6 pulgadas, con soporte para colgar en la pared. Una obra de arte única que combina la artesanía tradicional con un diseño moderno, ideal para decorar cualquier espacio con estilo y elegancia.",
+    "price": 69.99,
+    "images": [
+      {
+        "imgName": "cruz_metal_forjado_mediano_1",
+        "url": "https://img.freepik.com/free-photo/close-up-photo-shoot-hammer-anvil-dark-smith-workshop_613910-3432.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_metal_forjado_mediano_2",
+        "url": "https://img.freepik.com/free-photo/construction-workers-are-installing-steel-rods-reinforced-concrete-column_1150-6197.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_metal_forjado_mediano_3",
+        "url": "https://img.freepik.com/free-photo/closeup-chained-sliding-grille-door_53876-42320.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "ST13",
+    "name": "Libro de Arte de Star Wars",
+    "description": "Libro de arte de la saga de Star Wars que incluye ilustraciones, bocetos y conceptos de los artistas que crearon el universo visual de la saga. Ideal para los amantes del arte y Star Wars.",
+    "price": 39.99,
+    "images": [
+      {
+        "imgName": "libro_arte_star_wars_mediano_1",
+        "url": "https://img.freepik.com/free-vector/outer-space-cover-collection_23-2148132206.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "libro_arte_star_wars_mediano_2",
+        "url": "https://img.freepik.com/free-vector/astronomy-brochure-flyer-with-astronomical-equipment-observe-night-sky-stars_1441-1845.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "libro_arte_star_wars_mediano_3",
+        "url": "https://img.freepik.com/free-vector/antigravity-geometric-shapes-cover-collection_52683-8182.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR14",
+    "name": "Cruz de Cerámica Pintada a Mano",
+    "description": "Cruz de cerámica pintada a mano en tonos azules y blancos con detalles en relieve. Dimensiones de 6x4 pulgadas, con soporte para exhibir en una superficie plana o colgar en la pared. Una pieza artística única que combina la belleza de la cerámica con la devoción cristiana.",
+    "price": 29.99,
+    "images": [
+      {
+        "imgName": "cruz_ceramica_pintada_mediano_1",
+        "url": "https://img.freepik.com/free-vector/watercolor-mosaic-background_23-2148284074.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_ceramica_pintada_mediano_2",
+        "url": "https://img.freepik.com/free-vector/watercolor-blue-ornamental-flower-background_23-2148305339.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_ceramica_pintada_mediano_3",
+        "url": "https://img.freepik.com/free-vector/mosaic-watercolor-background_23-2148308291.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR15",
+    "name": "Cruz de Madera y Metal con Incrustaciones",
+    "description": "Cruz de madera maciza con detalles de metal y incrustaciones de piedras pricesas. Dimensiones de 7x5 pulgadas, con soporte para colgar en la pared. Una combinación única de materiales y diseños que representa la fe y la elegancia en una sola pieza.",
+    "price": 79.99,
+    "images": [
+      {
+        "imgName": "cruz_madera_metal_incrustaciones_mediano_1",
+        "url": "https://img.freepik.com/free-photo/closeup-cross_53876-17959.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_metal_incrustaciones_mediano_2",
+        "url": "https://img.freepik.com/free-photo/balsa-wood-glider-making_1353-1.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_metal_incrustaciones_mediano_3",
+        "url": "https://img.freepik.com/free-photo/macro-shot-screw-wooden-background_53876-32172.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR16",
+    "name": "Cruz de Metal Dorado con Piedras pricesas",
+    "description": "Cruz de metal dorado con detalles intrincados en relieve y piedras pricesas incrustadas. size de 6x4 pulgadas, con acabado brillante. Una cruz elegante y lujosa que representa la fe y la devoción con estilo.",
+    "price": 129.99,
+    "images": [
+      {
+        "imgName": "cruz_metal_dorado_piedras_pricesas_mediano_1",
+        "url": "https://img.freepik.com/free-photo/copy-space-holy-cross-necklace-with-bread_23-2148288887.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_metal_dorado_piedras_pricesas_mediano_2",
+        "url": "https://img.freepik.com/free-photo/bread-with-holy-cross-necklace_23-2148288886.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_metal_dorado_piedras_pricesas_mediano_3",
+        "url": "https://img.freepik.com/free-photo/copy-space-with-wooden-holy-cross_23-2148288871.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR17",
+    "name": "Cruz de Madera Tallada a Mano",
+    "description": "Cruz de madera tallada a mano con acabado rústico y detalles envejecidos. size de 8x6 pulgadas, con textura y patrones únicos en la madera. Una cruz artesanal que refleja la artesanía y la tradición cristiana.",
+    "price": 59.99,
+    "images": [
+      {
+        "imgName": "cruz_madera_tallada_rustica_mediano_1",
+        "url": "https://img.freepik.com/free-photo/engraving-instrument-arrangement-table_23-2149061698.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_tallada_rustica_mediano_2",
+        "url": "https://img.freepik.com/free-photo/closeup-cross_53876-17959.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_tallada_rustica_mediano_3",
+        "url": "https://img.freepik.com/free-vector/hand-drawn-viking-runes-font-alphabet_23-2149996360.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR17",
+    "name": "Cruz de Madera Tallada a Mano",
+    "description": "Cruz de madera tallada a mano con acabado rústico y detalles envejecidos. size de 8x6 pulgadas, con textura y patrones únicos en la madera. Una cruz artesanal que refleja la artesanía y la tradición cristiana.",
+    "price": 59.99,
+    "images": [
+      {
+        "imgName": "cruz_madera_tallada_rustica_mediano_1",
+        "url": "https://img.freepik.com/free-photo/engraving-instrument-arrangement-table_23-2149061698.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_tallada_rustica_mediano_2",
+        "url": "https://img.freepik.com/free-photo/closeup-cross_53876-17959.jpg",
+        "size": "mediano"
+      },
+      {
+        "imgName": "cruz_madera_tallada_rustica_mediano_3",
+        "url": "https://img.freepik.com/free-vector/hand-drawn-viking-runes-font-alphabet_23-2149996360.jpg",
+        "size": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  }
+]

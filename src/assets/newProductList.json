@@ -1,0 +1,722 @@
+[
+  {
+    "id": "ST1",
+    "nombre_corto": "Sable de Luz",
+    "descripcion_media": "Réplica exacta del icónico sable de luz de Star Wars, con detalles de alta calidad y efectos de sonido.",
+    "precio": 149.99,
+    "imagenes": [
+      {
+        "nombre": "sable_mediano_1",
+        "url": "https://www.example.com/imagenes/sable_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "sable_mediano_2",
+        "url": "https://www.example.com/imagenes/sable_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "sable_mediano_3",
+        "url": "https://www.example.com/imagenes/sable_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST2",
+    "nombre_corto": "Figura de Acción R2-D2",
+    "descripcion_media": "Figura de acción de R2-D2, el astromecánico leal y valiente de la saga Star Wars, con detalles precisos y articulaciones para posar en diferentes poses.",
+    "precio": 29.99,
+    "imagenes": [
+      {
+        "nombre": "r2d2_mediano_1",
+        "url": "https://www.example.com/imagenes/r2d2_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "r2d2_mediano_2",
+        "url": "https://www.example.com/imagenes/r2d2_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "r2d2_mediano_3",
+        "url": "https://www.example.com/imagenes/r2d2_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST3",
+    "nombre_corto": "Nave Millennium Falcon",
+    "descripcion_media": "La legendaria nave espacial de Han Solo y Chewbacca, la Millennium Falcon, con detalles auténticos y características impresionantes, como cabina con luces y sonidos, y compartimentos de carga.",
+    "precio": 299.99,
+    "imagenes": [
+      {
+        "nombre": "millennium_falcon_mediano_1",
+        "url": "https://www.example.com/imagenes/millennium_falcon_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "millennium_falcon_mediano_2",
+        "url": "https://www.example.com/imagenes/millennium_falcon_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "millennium_falcon_mediano_3",
+        "url": "https://www.example.com/imagenes/millennium_falcon_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST4",
+    "nombre_corto": "Traje de Stormtrooper",
+    "descripcion_media": "Réplica detallada del icónico traje de Stormtrooper del Imperio Galáctico, con casco, armadura y accesorios de alta calidad.",
+    "precio": 199.99,
+    "imagenes": [
+      {
+        "nombre": "stormtrooper_mediano_1",
+        "url": "https://www.example.com/imagenes/stormtrooper_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "stormtrooper_mediano_2",
+        "url": "https://www.example.com/imagenes/stormtrooper_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "stormtrooper_mediano_3",
+        "url": "https://www.example.com/imagenes/stormtrooper_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST5",
+    "nombre_corto": "Taza con diseño de Baby Yoda",
+    "descripcion_media": "Taza de cerámica con diseño de Baby Yoda, el entrañable personaje de la serie 'The Mandalorian', perfecta para disfrutar de tu bebida favorita con estilo.",
+    "precio": 12.99,
+    "imagenes": [
+      {
+        "nombre": "baby_yoda_mediano_1",
+        "url": "https://www.example.com/imagenes/baby_yoda_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "baby_yoda_mediano_2",
+        "url": "https://www.example.com/imagenes/baby_yoda_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "baby_yoda_mediano_3",
+        "url": "https://www.example.com/imagenes/baby_yoda_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST6",
+    "nombre_corto": "Llavero de R2-D2",
+    "descripcion_media": "Llavero con el diseño del simpático droide R2-D2 de Star Wars, ideal para llevar tus llaves con estilo y mostrar tu amor por esta icónica saga.",
+    "precio": 8.99,
+    "imagenes": [
+      {
+        "nombre": "r2d2_mediano_1",
+        "url": "https://www.example.com/imagenes/r2d2_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "r2d2_mediano_2",
+        "url": "https://www.example.com/imagenes/r2d2_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "r2d2_mediano_3",
+        "url": "https://www.example.com/imagenes/r2d2_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST7",
+    "nombre_corto": "Figura de acción de Darth Vader",
+    "descripcion_media": "Figura de acción de alta calidad con la imagen del temido Sith Lord Darth Vader, con detalles precisos y articulaciones móviles para recrear épicas batallas galácticas.",
+    "precio": 29.99,
+    "imagenes": [
+      {
+        "nombre": "darth_vader_mediano_1",
+        "url": "https://www.example.com/imagenes/darth_vader_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "darth_vader_mediano_2",
+        "url": "https://www.example.com/imagenes/darth_vader_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "darth_vader_mediano_3",
+        "url": "https://www.example.com/imagenes/darth_vader_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST8",
+    "nombre_corto": "Camiseta de la Estrella de la Muerte",
+    "descripcion_media": "Camiseta con el icónico diseño de la Estrella de la Muerte de Star Wars, perfecta para los fanáticos de la saga que quieran lucir su amor por el Lado Oscuro de la Fuerza.",
+    "precio": 19.99,
+    "imagenes": [
+      {
+        "nombre": "estrella_muerte_mediano_1",
+        "url": "https://www.example.com/imagenes/estrella_muerte_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "estrella_muerte_mediano_2",
+        "url": "https://www.example.com/imagenes/estrella_muerte_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "estrella_muerte_mediano_3",
+        "url": "https://www.example.com/imagenes/estrella_muerte_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST9",
+    "nombre_corto": "Libro de Star Wars: El Despertar de la Fuerza",
+    "descripcion_media": "Libro de tapa dura que cuenta la historia de la película 'El Despertar de la Fuerza' de Star Wars, con detalles exclusivos y fascinantes del universo de la saga.",
+    "precio": 24.99,
+    "imagenes": [
+      {
+        "nombre": "despertar_fuerza_mediano_1",
+        "url": "https://www.example.com/imagenes/despertar_fuerza_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "despertar_fuerza_mediano_2",
+        "url": "https://www.example.com/imagenes/despertar_fuerza_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "despertar_fuerza_mediano_3",
+        "url": "https://www.example.com/imagenes/despertar_fuerza_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST10",
+    "nombre_corto": "Figura de Acción de Yoda",
+    "descripcion_media": "Figura de acción de Yoda, el icónico maestro Jedi de la saga de Star Wars. Incluye detalles realistas, articulaciones y accesorios como su bastón y sable de luz.",
+    "precio": 29.99,
+    "imagenes": [
+      {
+        "nombre": "yoda_mediano_1",
+        "url": "https://www.example.com/imagenes/yoda_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "yoda_mediano_2",
+        "url": "https://www.example.com/imagenes/yoda_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "yoda_mediano_3",
+        "url": "https://www.example.com/imagenes/yoda_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST11",
+    "nombre_corto": "Puzzle de 1000 piezas de Star Wars",
+    "descripcion_media": "Puzzle de 1000 piezas con una ilustración épica de personajes y naves de Star Wars. Ideal para los amantes de los rompecabezas y la saga de Star Wars.",
+    "precio": 24.99,
+    "imagenes": [
+      {
+        "nombre": "puzzle_star_wars_mediano_1",
+        "url": "https://www.example.com/imagenes/puzzle_star_wars_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "puzzle_star_wars_mediano_2",
+        "url": "https://www.example.com/imagenes/puzzle_star_wars_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "puzzle_star_wars_mediano_3",
+        "url": "https://www.example.com/imagenes/puzzle_star_wars_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST12",
+    "nombre_corto": "Lámpara Death Star",
+    "descripcion_media": "Lámpara inspirada en la Estrella de la Muerte de Star Wars. Tiene efectos de iluminación LED, con diseño detallado y realista. Perfecta para los fanáticos de la saga.",
+    "precio": 49.99,
+    "imagenes": [
+      {
+        "nombre": "death_star_lamp_mediano_1",
+        "url": "https://www.example.com/imagenes/death_star_lamp_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "death_star_lamp_mediano_2",
+        "url": "https://www.example.com/imagenes/death_star_lamp_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "death_star_lamp_mediano_3",
+        "url": "https://www.example.com/imagenes/death_star_lamp_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "ST13",
+    "nombre_corto": "Libro de Arte de Star Wars",
+    "descripcion_media": "Libro de arte de la saga de Star Wars que incluye ilustraciones, bocetos y conceptos de los artistas que crearon el universo visual de la saga. Ideal para los amantes del arte y Star Wars.",
+    "precio": 39.99,
+    "imagenes": [
+      {
+        "nombre": "libro_arte_star_wars_mediano_1",
+        "url": "https://www.example.com/imagenes/libro_arte_star_wars_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "libro_arte_star_wars_mediano_2",
+        "url": "https://www.example.com/imagenes/libro_arte_star_wars_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "libro_arte_star_wars_mediano_3",
+        "url": "https://www.example.com/imagenes/libro_arte_star_wars_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "star_wars"
+  },
+  {
+    "id": "CR1",
+    "nombre_corto": "Cruz de Madera Tallada",
+    "descripcion_media": "Cruz de madera tallada a mano con detalles intrincados y acabado envejecido. Dimensiones de 12x8 pulgadas, perfecta para decorar tu hogar o como objeto de devoción religiosa.",
+    "precio": 49.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_madera_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_madera_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_madera_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_madera_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR2",
+    "nombre_corto": "Cruz de Acero Inoxidable",
+    "descripcion_media": "Cruz de acero inoxidable de alta calidad con diseño moderno y pulido de espejo. Dimensiones de 18x12 pulgadas, resistente al agua y al deslustre. Ideal para uso interior o exterior.",
+    "precio": 89.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_acero_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_acero_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_acero_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_acero_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_acero_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_acero_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR3",
+    "nombre_corto": "Cruz de Plata Esterlina",
+    "descripcion_media": "Cruz de plata esterlina con diseño elegante y detalles grabados a mano. Dimensiones de 1.5x1 pulgadas, con cadena de plata incluida. Ideal para uso diario o como regalo especial.",
+    "precio": 79.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_plata_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_plata_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_plata_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_plata_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_plata_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_plata_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR4",
+    "nombre_corto": "Cruz de Cerámica Pintada a Mano",
+    "descripcion_media": "Cruz de cerámica pintada a mano con diseños florales y acabado brillante. Dimensiones de 10x6 pulgadas, con soporte de metal para colgar en la pared. Una pieza única y artesanal para tu hogar.",
+    "precio": 39.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_ceramica_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_ceramica_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_ceramica_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_ceramica_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_ceramica_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_ceramica_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR5",
+    "nombre_corto": "Cruz de Madera Tallada a Mano",
+    "descripcion_media": "Cruz de madera tallada a mano con detalles intrincados y acabado envejecido. Dimensiones de 8x5 pulgadas, con soporte de metal para colocar en una superficie plana. Una pieza de artesanía que aporta calidez y estilo a cualquier ambiente.",
+    "precio": 59.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_madera_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_madera_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_madera_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_madera_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR6",
+    "nombre_corto": "Cruz de Acero Inoxidable",
+    "descripcion_media": "Cruz de acero inoxidable pulido con diseño minimalista y acabado brillante. Dimensiones de 2x1.5 pulgadas, con cadena de acero inoxidable incluida. Resistente al desgaste y adecuada para uso diario.",
+    "precio": 49.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_acero_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_acero_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_acero_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_acero_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_acero_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_acero_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR7",
+    "nombre_corto": "Cruz de Plata Esterlina",
+    "descripcion_media": "Cruz de plata esterlina con diseño clásico y acabado pulido. Dimensiones de 1.5x1 pulgadas, con cadena de plata esterlina incluida. Hecha a mano con materiales de alta calidad y perfecta para ocasiones especiales o uso diario.",
+    "precio": 79.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_plata_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_plata_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_plata_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_plata_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_plata_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_plata_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR8",
+    "nombre_corto": "Cruz de Madera con Incrustaciones de Nácar",
+    "descripcion_media": "Cruz de madera con incrustaciones de nácar natural en un diseño geométrico. Dimensiones de 6x4 pulgadas, con borde de metal plateado. Un detalle elegante y significativo para cualquier espacio o como regalo especial.",
+    "precio": 69.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_madera_nacar_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_madera_nacar_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_nacar_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_madera_nacar_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_nacar_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_madera_nacar_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR9",
+    "nombre_corto": "Cruz de Oro Blanco con Diamantes",
+    "descripcion_media": "Cruz de oro blanco de 18 quilates con incrustaciones de diamantes brillantes en un diseño moderno. Dimensiones de 1x0.75 pulgadas, con cadena de oro blanco incluida. Una joya de lujo para lucir con estilo y elegancia.",
+    "precio": 599.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_oro_diamantes_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_oro_diamantes_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_oro_diamantes_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_oro_diamantes_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_oro_diamantes_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_oro_diamantes_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR10",
+    "nombre_corto": "Cruz de Acero Inoxidable con Grabado",
+    "descripcion_media": "Cruz de acero inoxidable con diseño minimalista y grabado inspirador. Dimensiones de 2x1.25 pulgadas, con cadena de acero inoxidable incluida. Resistente al desgaste y perfecta para uso diario con un mensaje significativo.",
+    "precio": 29.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_acero_inoxidable_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_acero_inoxidable_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_acero_inoxidable_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_acero_inoxidable_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_acero_inoxidable_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_acero_inoxidable_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR11",
+    "nombre_corto": "Cruz de Madera Tallada a Mano",
+    "descripcion_media": "Cruz de madera maciza tallada a mano con intrincados detalles y acabado envejecido. Dimensiones de 8x5 pulgadas, con soporte para colgar en la pared o exhibir en una superficie plana. Una pieza artesanal única para decorar tu hogar con devoción y estilo rústico.",
+    "precio": 49.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_madera_tallada_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_madera_tallada_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_tallada_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_madera_tallada_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_tallada_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_madera_tallada_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR12",
+    "nombre_corto": "Cruz de Plata de Ley con Circonitas",
+    "descripcion_media": "Cruz de plata de ley con incrustaciones de circonitas cúbicas en un diseño clásico y elegante. Dimensiones de 1.5x1 pulgadas, con cadena de plata de ley incluida. Una joya atemporal con un brillo deslumbrante para llevarla en ocasiones especiales o como un símbolo de fe en tu día a día.",
+    "precio": 79.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_plata_ley_circonitas_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_plata_ley_circonitas_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_plata_ley_circonitas_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_plata_ley_circonitas_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_plata_ley_circonitas_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_plata_ley_circonitas_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR13",
+    "nombre_corto": "Cruz de Metal Forjado a Mano",
+    "descripcion_media": "Cruz de metal forjado a mano con acabado en negro mate y detalles intrincados. Dimensiones de 10x6 pulgadas, con soporte para colgar en la pared. Una obra de arte única que combina la artesanía tradicional con un diseño moderno, ideal para decorar cualquier espacio con estilo y elegancia.",
+    "precio": 69.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_metal_forjado_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_metal_forjado_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_metal_forjado_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_metal_forjado_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_metal_forjado_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_metal_forjado_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR14",
+    "nombre_corto": "Cruz de Cerámica Pintada a Mano",
+    "descripcion_media": "Cruz de cerámica pintada a mano en tonos azules y blancos con detalles en relieve. Dimensiones de 6x4 pulgadas, con soporte para exhibir en una superficie plana o colgar en la pared. Una pieza artística única que combina la belleza de la cerámica con la devoción cristiana.",
+    "precio": 29.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_ceramica_pintada_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_ceramica_pintada_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_ceramica_pintada_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_ceramica_pintada_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_ceramica_pintada_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_ceramica_pintada_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR15",
+    "nombre_corto": "Cruz de Madera y Metal con Incrustaciones",
+    "descripcion_media": "Cruz de madera maciza con detalles de metal y incrustaciones de piedras preciosas. Dimensiones de 7x5 pulgadas, con soporte para colgar en la pared. Una combinación única de materiales y diseños que representa la fe y la elegancia en una sola pieza.",
+    "precio": 79.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_madera_metal_incrustaciones_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_madera_metal_incrustaciones_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_metal_incrustaciones_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_madera_metal_incrustaciones_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_metal_incrustaciones_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_madera_metal_incrustaciones_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR16",
+    "nombre_corto": "Cruz de Metal Dorado con Piedras Preciosas",
+    "descripcion_media": "Cruz de metal dorado con detalles intrincados en relieve y piedras preciosas incrustadas. Tamaño de 6x4 pulgadas, con acabado brillante. Una cruz elegante y lujosa que representa la fe y la devoción con estilo.",
+    "precio": 129.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_metal_dorado_piedras_preciosas_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_metal_dorado_piedras_preciosas_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_metal_dorado_piedras_preciosas_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_metal_dorado_piedras_preciosas_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_metal_dorado_piedras_preciosas_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_metal_dorado_piedras_preciosas_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  },
+  {
+    "id": "CR17",
+    "nombre_corto": "Cruz de Madera Tallada a Mano",
+    "descripcion_media": "Cruz de madera tallada a mano con acabado rústico y detalles envejecidos. Tamaño de 8x6 pulgadas, con textura y patrones únicos en la madera. Una cruz artesanal que refleja la artesanía y la tradición cristiana.",
+    "precio": 59.99,
+    "imagenes": [
+      {
+        "nombre": "cruz_madera_tallada_rustica_mediano_1",
+        "url": "https://www.example.com/imagenes/cruz_madera_tallada_rustica_mediano_1.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_tallada_rustica_mediano_2",
+        "url": "https://www.example.com/imagenes/cruz_madera_tallada_rustica_mediano_2.jpg",
+        "tamaño": "mediano"
+      },
+      {
+        "nombre": "cruz_madera_tallada_rustica_mediano_3",
+        "url": "https://www.example.com/imagenes/cruz_madera_tallada_rustica_mediano_3.jpg",
+        "tamaño": "mediano"
+      }
+    ],
+    "franchise": "crosses"
+  }
+]
